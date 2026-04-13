@@ -27,7 +27,7 @@ Hosting: Localhost or cloud server (optional)
 
 Clone this repository
 
-git clone https://github.com/harishkumar-og/E-Waste-Management-System.git
+git clone (https://github.com/SENTHURSELVANP/E-Waste-Management-System.git)
 
 
 Navigate into the project directory
